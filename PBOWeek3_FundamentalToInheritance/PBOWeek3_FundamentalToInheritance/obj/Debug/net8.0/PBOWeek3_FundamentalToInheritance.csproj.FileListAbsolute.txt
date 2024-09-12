@@ -1,0 +1,14 @@
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\bin\Debug\net8.0\PBOWeek3_FundamentalToInheritance.exe
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\bin\Debug\net8.0\PBOWeek3_FundamentalToInheritance.deps.json
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\bin\Debug\net8.0\PBOWeek3_FundamentalToInheritance.runtimeconfig.json
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\bin\Debug\net8.0\PBOWeek3_FundamentalToInheritance.dll
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\bin\Debug\net8.0\PBOWeek3_FundamentalToInheritance.pdb
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.AssemblyInfoInputs.cache
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.AssemblyInfo.cs
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.csproj.CoreCompileInputs.cache
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.dll
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\refint\PBOWeek3_FundamentalToInheritance.dll
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.pdb
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\PBOWeek3_FundamentalToInheritance.genruntimeconfig.cache
+C:\Users\fauzu\source\repos\PBOWeek3_FundamentalToInheritance\PBOWeek3_FundamentalToInheritance\obj\Debug\net8.0\ref\PBOWeek3_FundamentalToInheritance.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PBOWeek3_FundamentalToInheritance/1.0.0": {
+        "runtime": {
+          "PBOWeek3_FundamentalToInheritance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PBOWeek3_FundamentalToInheritance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
